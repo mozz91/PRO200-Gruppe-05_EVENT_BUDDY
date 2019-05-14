@@ -7,6 +7,8 @@ namespace EventBuddyMVC.Models{
         public EventBuddyContext(DbContextOptions<EventBuddyContext> options):base(options){}
 
         public DbSet<EventBuddy> EventBuddy{get; set;}
+
+        public DbSet<Users> Users {get; set;}
     }
 
 
