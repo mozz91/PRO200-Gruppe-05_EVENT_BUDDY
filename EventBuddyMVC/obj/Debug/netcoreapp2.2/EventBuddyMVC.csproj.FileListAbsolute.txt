@@ -12,3 +12,17 @@ C:\Users\Mozz\OneDrive\Documents\Westerdals.Andre år\Smidig Prosjekt\EventBuddy
 C:\Users\Mozz\OneDrive\Documents\Westerdals.Andre år\Smidig Prosjekt\EventBuddyMVC\obj\Debug\netcoreapp2.2\EventBuddyMVC.RazorTargetAssemblyInfo.cache
 C:\Users\Mozz\OneDrive\Documents\Westerdals.Andre år\Smidig Prosjekt\EventBuddyMVC\obj\Debug\netcoreapp2.2\EventBuddyMVC.dll
 C:\Users\Mozz\OneDrive\Documents\Westerdals.Andre år\Smidig Prosjekt\EventBuddyMVC\obj\Debug\netcoreapp2.2\EventBuddyMVC.pdb
+C:\Users\osama\Desktop\SmidigProsjekt\PRO200-Gruppe-05\EventBuddyMVC\bin\Debug\netcoreapp2.2\EventBuddyMVC.deps.json
+C:\Users\osama\Desktop\SmidigProsjekt\PRO200-Gruppe-05\EventBuddyMVC\bin\Debug\netcoreapp2.2\EventBuddyMVC.runtimeconfig.json
+C:\Users\osama\Desktop\SmidigProsjekt\PRO200-Gruppe-05\EventBuddyMVC\bin\Debug\netcoreapp2.2\EventBuddyMVC.runtimeconfig.dev.json
+C:\Users\osama\Desktop\SmidigProsjekt\PRO200-Gruppe-05\EventBuddyMVC\bin\Debug\netcoreapp2.2\EventBuddyMVC.dll
+C:\Users\osama\Desktop\SmidigProsjekt\PRO200-Gruppe-05\EventBuddyMVC\bin\Debug\netcoreapp2.2\EventBuddyMVC.pdb
+C:\Users\osama\Desktop\SmidigProsjekt\PRO200-Gruppe-05\EventBuddyMVC\obj\Debug\netcoreapp2.2\EventBuddyMVC.csprojAssemblyReference.cache
+C:\Users\osama\Desktop\SmidigProsjekt\PRO200-Gruppe-05\EventBuddyMVC\obj\Debug\netcoreapp2.2\EventBuddyMVC.csproj.CoreCompileInputs.cache
+C:\Users\osama\Desktop\SmidigProsjekt\PRO200-Gruppe-05\EventBuddyMVC\obj\Debug\netcoreapp2.2\EventBuddyMVC.RazorAssemblyInfo.cache
+C:\Users\osama\Desktop\SmidigProsjekt\PRO200-Gruppe-05\EventBuddyMVC\obj\Debug\netcoreapp2.2\EventBuddyMVC.RazorAssemblyInfo.cs
+C:\Users\osama\Desktop\SmidigProsjekt\PRO200-Gruppe-05\EventBuddyMVC\obj\Debug\netcoreapp2.2\EventBuddyMVC.AssemblyInfoInputs.cache
+C:\Users\osama\Desktop\SmidigProsjekt\PRO200-Gruppe-05\EventBuddyMVC\obj\Debug\netcoreapp2.2\EventBuddyMVC.AssemblyInfo.cs
+C:\Users\osama\Desktop\SmidigProsjekt\PRO200-Gruppe-05\EventBuddyMVC\obj\Debug\netcoreapp2.2\EventBuddyMVC.RazorTargetAssemblyInfo.cache
+C:\Users\osama\Desktop\SmidigProsjekt\PRO200-Gruppe-05\EventBuddyMVC\obj\Debug\netcoreapp2.2\EventBuddyMVC.dll
+C:\Users\osama\Desktop\SmidigProsjekt\PRO200-Gruppe-05\EventBuddyMVC\obj\Debug\netcoreapp2.2\EventBuddyMVC.pdb
